@@ -4,7 +4,7 @@
 #
 Name     : R-leaflet.providers
 Version  : 1.9.0
-Release  : 18
+Release  : 19
 URL      : https://cran.r-project.org/src/contrib/leaflet.providers_1.9.0.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/leaflet.providers_1.9.0.tar.gz
 Summary  : Leaflet Providers
